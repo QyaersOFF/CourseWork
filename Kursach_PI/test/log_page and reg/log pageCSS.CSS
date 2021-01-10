@@ -1,0 +1,24 @@
+
+#logplase {
+  width: 100%;
+  height: 100%;
+  margin-left: 35%;
+  margin-right: 35%;
+  margin-top: 20%;
+  background: silver;
+  overflow: hidden; /* clearfix */
+}
+#logplase:before {
+  margin-top: 50%;	
+  float: left;
+}
+
+#formlog{
+	float:center;
+	font-family: TimesNewRoman;
+	padding: 10 0 0px;
+	position:relative;
+}
+#text {
+    text-align:  center;
+}
